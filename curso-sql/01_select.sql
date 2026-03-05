@@ -1,0 +1,1 @@
+SELECT IdCliente, QtdePontos FROM clientes
